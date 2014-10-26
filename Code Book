@@ -1,0 +1,14 @@
+1. testDataset : test set
+2. trainDataset : train set
+3. featuresData : the features 
+4. featuresVector: Extract the features vector from featuresData
+5. testY: test labels
+6. trainY: train labels
+7. activityLabels : activity label data
+8. activityTest: activity with test labels
+9.activityTrain: activity with train labels
+10. completeDataset: merged (test and train) dataset
+11. subjectTest: subject of test
+12. subjectTrain: subject of train
+13. completeDataset1 : merged (test and train) dataset with subject
+14. tidyDataset2: the independent tidy data set with the average of each variable for each activity and each subject.
